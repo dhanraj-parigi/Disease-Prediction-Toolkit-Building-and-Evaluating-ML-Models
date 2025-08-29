@@ -59,7 +59,10 @@ Key features: age, sex, chest pain type, cholesterol, thalach, etc.
 
 📽️ Demo Video
 
-🎥 Watch the demo
+🎥 Watch the demo( https://github.com/user-attachments/assets/b17c4228-7408-4d03-9e95-e3660d76e804 )
+
+
+
 
 
 💡 Future Improvements
