@@ -55,3 +55,37 @@ Logistic Regression Accuracy: XX%
 Random Forest Accuracy: YY%
 
 Key features: age, sex, chest pain type, cholesterol, thalach, etc.
+
+
+📽️ Demo Video
+
+🎥 Watch the demo
+
+
+💡 Future Improvements
+
+🔹 Deploy on Heroku/Streamlit Cloud
+
+🔹 Add more models (XGBoost, LightGBM)
+
+🔹 Expand dataset for higher accuracy
+
+🔹 Improve UI/UX design
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
+🌟 Acknowledgments
+
+Dataset: UCI Heart Disease Dataset ❤️
+
+DevTown Bootcamp for guidance 🙌
+
+👉 You just need to replace:
+
+yourusername with your GitHub username
+
+your-demo-link with Google Drive/YouTube demo
+
+your-presentation-link with Drive/Slides link
